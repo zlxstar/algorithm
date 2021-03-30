@@ -4,3 +4,7 @@
 
 
 1.同样的方法，c++不行说超时了，python3可以通过
+
+第二周题目：
+面试题 16.26. 计算器 https：//leetcode-cn.com/problems/calculator-lcci/ 
+739. 每日温度 https://leetcode-cn.com/problems/daily-temperatures/
